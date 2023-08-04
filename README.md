@@ -1,4 +1,5 @@
-Midlead-hms
+#Midlead-hms
+
 Midlead-hms is a comprehensive Hotel Management Software designed to efficiently
 manage hotel bookings, guest details, reservations, and room information. The system offers
 a user-friendly dashboard to monitor the status of booked and available rooms, as well as
