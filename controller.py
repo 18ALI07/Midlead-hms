@@ -22,10 +22,10 @@ from config import config
 #     autocommit=config.get("DB_AUTOCOMMIT"),
 # )
 connection = mysql.connector.connect(
-        host="midlead-hms.cdmwztzukbhk.us-east-1.rds.amazonaws.com",
-        user="admin",
-        password="18Midlead",
-        database="midleadhms",
+        host="**************************",
+        user="***********",
+        password="******************",
+        database="******************s",
         port=3306,
 
 
